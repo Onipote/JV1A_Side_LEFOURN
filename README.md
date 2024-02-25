@@ -7,7 +7,7 @@ Aller à gauche : Q ; Flèche de gauche ; Joystick
 
 Aller à droite : D ; Flèche de droite ; Joystick
 
-Saut : Espace ; Joystick1Button0 (Xbox)
+Saut : Espace ; A (Xbox)
 
 Ramasser/Interagir avec les collectibles : F
 
