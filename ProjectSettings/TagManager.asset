@@ -8,7 +8,7 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Collectables
   - Water
   - UI
   - SewersEntrances
@@ -16,10 +16,10 @@ TagManager:
   - Ground
   - Walls
   - Heal
-  - 
-  - 
-  - 
-  - 
+  - Enemy
+  - EnemysZone
+  - PowerUp
+  - InstantDeath
   - 
   - 
   - 
