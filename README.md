@@ -3,9 +3,9 @@
 
 CONTROLES JOUEUR (AZERTY):
 
-Aller à gauche : Q ; Flèche de gauche ; 
+Aller à gauche : Q ; Flèche de gauche ; Joystick
 
-Aller à droite : D ; Flèche de droite ;
+Aller à droite : D ; Flèche de droite ; Joystick
 
 Saut : Espace ; Joystick1Button0 (Xbox)
 
