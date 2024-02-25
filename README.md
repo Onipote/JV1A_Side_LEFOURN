@@ -15,6 +15,7 @@ Manger : E
 
 Utiliser le power-up : X
 > Permet de devenir plus petit
+
 Utiliser le power-up : C
 > Permet de revenir à la taille d'origine
 
