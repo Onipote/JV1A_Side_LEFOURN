@@ -14,6 +14,8 @@ Ramasser/Interagir avec les collectibles : F
 Manger : E
 
 Utiliser le power-up : X
-> Permet de devenir plus petit OU revenir à la taille d'origine
+> Permet de devenir plus petit
+Utiliser le power-up : C
+> Permet de revenir à la taille d'origine
 
 Attaque (non fonctionnelle car système de combat pas fini) : R
