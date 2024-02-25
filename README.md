@@ -15,5 +15,5 @@ Manger : E
 
 Utiliser le power-up : X
 > Permet de devenir plus petit OU revenir à la taille d'origine
-> 
+
 Attaque (non fonctionnelle car système de combat pas fini) : R
