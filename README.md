@@ -9,7 +9,7 @@ Aller à droite : D ; Flèche de droite ; Joystick
 
 Saut : Espace ; A (Xbox)
 
-Ramasser/Interagir avec les collectibles : F
+Ramasser/Interagir avec les collectibles/Se téléporter : F
 
 Manger : E
 
